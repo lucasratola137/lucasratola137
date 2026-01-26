@@ -28,4 +28,4 @@ Clusterização de clientes e análise da base de dados <br>(Python/ML → Googl
 <br>O Desafio: Analisar um dataset com 3 variáveis dos clientes de uma loja e construir um modelo de ML para segmentação dos clientes em 3 categorias.<br />
 <br>A Solução: Segmentação do dataset utilizando KMeans do Python verificando idade, renda anual e pontuação em gastos (varia de 0 a 100, quanto maior = melhor). Em seguida, subir o dataset gerado em uma nova tabela no Google Big Query para análises e por fim gerar um relatório no Looker Studio para apresentação visual.<br />
 <br>Resultado: Clientes segmentados e identificados.<br />
-<br><a href="[url_de_destino](https://github.com/lucasratola137/Clusterizacao_Python)">Ver análise completa → </a> <br />
+<br><a href="https://github.com/lucasratola137/Clusterizacao_Python">Ver análise completa → </a> <br />
