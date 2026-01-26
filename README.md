@@ -16,7 +16,6 @@ Eu sou Lucas, formado em Engenharia de Produção e atuando há mais de seis ano
   <img width="100" height="33" src= "https://www.adthena.com/wp-content/uploads/2025/11/Looker-Studio-1-900x506.png" />
   <img width="150" height="70" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img width="100" height="50" src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img width="160" height="50" src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
 ## 🚀 Próximos Passos & Tecnologias em Foco
