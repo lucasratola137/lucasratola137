@@ -1,6 +1,5 @@
 ## Olá! :D
-💡 Sobre Mim:
-Eu sou Lucas, formado em Engenharia de Produção e atuando há mais de seis anos nas áreas de Dados e Processos com foco em transformar informações em decisões e melhorias reais para o negócio.
+💡 Eu sou Lucas, formado em Engenharia de Produção e atuando há mais de seis anos nas áreas de Dados e Processos com foco em transformar informações em decisões e melhorias reais para o negócio.
 
 📊 Tenho experiência em desenvoler códigos em linguagem SQL para consultas em bancos relacionais (PostgreSQL e MySQL), criação de dashboards em plataformas de Business Intelligence (Looker, Power BI e Tableau), além de conhecimentos avançados em construção e análises de planilhas Excel (VBA) e Google Sheets (Google Script).
 
@@ -22,3 +21,11 @@ Eu sou Lucas, formado em Engenharia de Produção e atuando há mais de seis ano
 Python: Aprimoramento da linguagem e utilização de bibliotecas para Machine Learning.
 
 Cloud: Aprender sobre plataformas como AWS, Azure e Google Cloud Plataform.
+
+## 🎯 Projetos
+Clusterização de clientes e análise da base de dados <br>(Python/ML → Google Cloud → SQL → Looker Studio)<br />
+<img width="500" height="500" src= "https://i.ibb.co/ZpYFJz0X/clusterizacao.png" />
+<br>O Desafio: Analisar um dataset com 3 variáveis dos clientes de uma loja e construir um modelo de ML para segmentação dos clientes em 3 categorias.<br />
+<br>A Solução: Segmentação do dataset utilizando KMeans do Python verificando idade, renda anual e pontuação em gastos (varia de 0 a 100, quanto maior = melhor). Em seguida, subir o dataset gerado em uma nova tabela no Google Big Query para análises e por fim gerar um relatório no Looker Studio para apresentação visual.<br />
+<br>Resultado: Clientes segmentados e identificados.<br />
+<br><a href="[url_de_destino](https://github.com/lucasratola137/Clusterizacao_Python)">Ver análise completa → </a> <br />
