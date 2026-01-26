@@ -9,11 +9,11 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 <div display ="inline">
-  <img width="150" height="50" src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img width="80" height="50" src= "https://img.shields.io/badge/Sql-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img width="112" height="50" src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img width="100" height="50" src= "https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white " />
   <img width="100" height="33" src= "https://www.adthena.com/wp-content/uploads/2025/11/Looker-Studio-1-900x506.png" />
-  <img width="150" height="70" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img width="160" height="80" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img width="100" height="50" src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
