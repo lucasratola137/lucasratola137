@@ -20,4 +20,5 @@ Eu sou Lucas, formado em Engenharia de Produção e atuando há mais de seis ano
 
 ## 🚀 Próximos Passos & Tecnologias em Foco
 Python: Aprimoramento da linguagem e utilização de bibliotecas para Machine Learning.
-Cloud: Aprender sobre plataformas como AWS, Azure e Google Cloud Plataform
+
+Cloud: Aprender sobre plataformas como AWS, Azure e Google Cloud Plataform.
