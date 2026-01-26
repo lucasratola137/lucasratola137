@@ -24,8 +24,13 @@ Cloud: Aprender sobre plataformas como AWS, Azure e Google Cloud Plataform.
 
 ## 🎯 Projetos
 Clusterização de clientes e análise da base de dados <br>(Python/ML → Google Cloud → SQL → Looker Studio)<br />
+
 <img width="500" height="500" src= "https://i.ibb.co/ZpYFJz0X/clusterizacao.png" />
-<br>O Desafio: Analisar um dataset com 3 variáveis dos clientes de uma loja e construir um modelo de ML para segmentação dos clientes em 3 categorias.<br />
-<br>A Solução: Segmentação do dataset utilizando KMeans do Python verificando idade, renda anual e pontuação em gastos (varia de 0 a 100, quanto maior = melhor). Em seguida, subir o dataset gerado em uma nova tabela no Google Big Query para análises e por fim gerar um relatório no Looker Studio para apresentação visual.<br />
-<br>Resultado: Clientes segmentados e identificados.<br />
+
+**O Desafio**: Analisar um dataset com 3 variáveis dos clientes de uma loja e construir um modelo de ML para segmentação dos clientes em 3 categorias.
+
+**A Solução**: Segmentação do dataset utilizando KMeans do Python verificando idade, renda anual e pontuação em gastos (varia de 0 a 100, quanto maior = melhor). Em seguida, subir o dataset gerado em uma nova tabela no Google Big Query para análises e por fim gerar um relatório no Looker Studio para apresentação visual.
+
+**Resultado**: Clientes segmentados e identificados.
+
 <br><a href="https://github.com/lucasratola137/Clusterizacao_Python">Ver análise completa → </a> <br />
