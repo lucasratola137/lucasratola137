@@ -1,7 +1,7 @@
 ## Olá! :D
 💡 Eu sou Lucas, formado em Engenharia de Produção e atuando há mais de seis anos nas áreas de Dados e Processos com foco em transformar informações em decisões e melhorias reais para o negócio.
 
-📊 Tenho experiência em desenvoler códigos em linguagem SQL para consultas em bancos relacionais (PostgreSQL e MySQL), criação de dashboards em plataformas de Business Intelligence (Looker, Power BI e Tableau), além de conhecimentos avançados em construção e análises de planilhas Excel (VBA) e Google Sheets (Google Script).
+📊 Tenho experiência em desenvoler códigos em linguagem SQL para consultas em bancos relacionais, criação de dashboards em plataformas de Business Intelligence (Looker, Power BI e Tableau), além de conhecimentos avançados em construção e análises de planilhas Excel (VBA) e Google Sheets (Google Script).
 
 🚀 Sou expert e aficionado em frameworks Ágeis como Scrum, Kanban e OKR.
 
