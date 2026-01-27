@@ -27,7 +27,7 @@
 ## 🎯 Projetos
 Clusterização de clientes e análise da base de dados <br>(Python/ML → Google Cloud → SQL → Looker Studio)<br />
 
-<img width="500" height="500" src= "https://i.ibb.co/TG25jG8/clusterizacao.png" />
+<img width="400" height="400" src= "https://iili.io/fid0r79.png" />
 
 **O Desafio**: Analisar um dataset com 3 variáveis dos clientes de uma loja e construir um modelo de ML para segmentação dos clientes em 3 categorias.
 
