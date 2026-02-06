@@ -20,9 +20,9 @@
 </div>
 
 ## 🚀 Próximos Passos & Tecnologias em Foco
-🐍 Python: Aprimoramento da linguagem e utilização de bibliotecas para Machine Learning.
+🐍 Python: Aprimoramento da linguagem Python para Machine Learning.
 
-☁️ Cloud: Aprender sobre plataformas como AWS, Azure e Google Cloud Plataform.
+☁️ Cloud: Estudando a gestão e mecânicas de plataformas Cloud como AWS, Azure, Databricks e Google Cloud Plataform.
 
 ## 🎯 Projetos
 Clusterização de clientes e análise da base de dados <br>(Python/ML → Google Cloud → SQL → Looker Studio)<br />
